@@ -101,4 +101,4 @@ ENV/
 .mypy_cache/
 
 # vim
-.sw[op]
+*.sw[op]
